@@ -1,32 +1,386 @@
-![MasterHead](https://uploads.sitepoint.com/wp-content/uploads/2021/12/1638981799header.png)
-<h1 align="center">Hi 👋, I'm Raunak Raza</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt= "coding" width = "400" src="https://miro.medium.com/v2/resize:fit:1400/1*0N8CVKix7OGfBDsgh9DzrQ.gif">
+# Hey, I'm Raunak 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raunak-collab&label=Profile%20views&color=0e75b6&style=flat" alt="raunak-collab" /> </p>
+### Full-Stack Developer • Software Engineer • Problem Solver
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+I’m a **Full-Stack Developer** focused on building modern, scalable, and user-friendly web applications.
 
-- 🔭 I’m currently working on **IslamicKnowledgeHub**
+I enjoy turning ideas into real products — from polished frontend interfaces and dashboards to REST APIs, authentication systems, databases, and complete SaaS applications.
 
-- 🌱 I’m currently learning **React**
+Currently, I’m strengthening my **Data Structures & Algorithms, backend development, system design fundamentals, and full-stack engineering skills** while building production-oriented projects.
 
-- 💬 Ask me about **react,javascript,c**
+---
 
-- 📫 How to reach me **raunakraza63@gmail.com**
+## 🚀 About Me
 
-- ⚡ Fun fact **I am funny**
+* 💻 Full-Stack Developer focused on **JavaScript / React / Next.js**
+* ⚡ Strongest area: **Frontend & modern web application development**
+* 🔧 Building experience in **backend architecture, APIs, databases and authentication**
+* 🧠 Currently improving **DSA & problem-solving**
+* 🏗️ Interested in building **real-world SaaS products and scalable applications**
+* 📱 Exploring **React Native** for cross-platform mobile development
+* 🤖 Exploring practical use of **AI APIs in applications**
+* 🌱 Currently learning and improving every day
+* 🎓 BSc Mathematics student
+* 🤝 Open to **freelance projects, collaborations, internships and developer opportunities**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/raunakraza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raunakraza" height="30" width="40" /></a>
+---
+
+# 🛠️ Tech Stack
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+* HTML5
+* CSS3
+* JavaScript
+* React.js
+* Next.js
+* Tailwind CSS
+* Responsive UI
+* React Hooks
+* Context API
+* Redux Toolkit
+* RTK Query
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raunak-collab&show_icons=true&locale=en&layout=compact" alt="raunak-collab" /></p>
+### Backend
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raunak-collab&show_icons=true&locale=en" alt="raunak-collab" /></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raunak-collab&" alt="raunak-collab" /></p>
+* Node.js
+* Express.js
+* REST APIs
+* API architecture
+* Authentication & authorization
+* Cookies & sessions
+* Protected routes
+* Server-side logic
+
+### Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql" />
+</p>
+
+* MongoDB
+* MongoDB Atlas
+* Mongoose
+* PostgreSQL
+* Database schema design
+* CRUD operations
+* Data modeling
+
+### Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel,netlify" />
+</p>
+
+* Git & GitHub
+* VS Code
+* Postman
+* Figma
+* Vercel
+* Netlify
+* REST API testing
+* Environment variables
+* Deployment & debugging
+
+### Mobile
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react" />
+</p>
+
+* React Native
+* React Navigation
+* Redux Toolkit
+* AsyncStorage
+* Axios
+
+### AI & APIs
+
+* OpenAI API
+* AI-powered application features
+* API integration
+* Prompt-based application workflows
+
+---
+
+# 🚀 Featured Projects
+
+## 🧰 DevHub — Developer Tools Platform
+
+**DevHub** is an all-in-one developer toolkit designed to bring useful development utilities together in one place.
+
+### Features
+
+* 🔐 Authentication & protected routes
+* 🛠️ Developer tools
+* 🔎 Search & category filtering
+* 📌 Saved tools
+* ❤️ Favourites
+* 🕒 Tool history
+* 📁 Collections
+* 📊 Developer dashboard
+* 🌙 Modern dark developer-focused UI
+* 📱 Responsive interface
+* ⚡ Fast Next.js application
+* 🗄️ MongoDB-backed data
+* 🚀 Vercel deployment
+
+### Tools include
+
+* JSON Formatter
+* JWT Decoder
+* Password Generator
+* Regex Tester
+* UUID Generator
+* XML tools
+* REST API testing
+* QR utilities
+* YAML tools
+* And more
+
+**Tech:** `Next.js` `React` `JavaScript` `Tailwind CSS` `MongoDB` `Mongoose` `Authentication` `REST APIs`
+
+---
+
+## 🏥 QueueLess — Healthcare Queue Management SaaS
+
+**QueueLess** is a healthcare-focused SaaS application designed to help clinics and healthcare centers manage appointments, queues, tokens and different user roles.
+
+### Core Concept
+
+Instead of patients waiting without visibility, QueueLess provides a structured digital queue system for:
+
+* 👨‍⚕️ Doctors
+* 🧑‍💼 Receptionists
+* 🏥 Clinic Owners
+* 👤 Patients
+
+### Planned / Implemented Capabilities
+
+* Authentication
+* Role-based access
+* Clinic management
+* Appointment management
+* Queue & token management
+* Patient flows
+* Doctor dashboard
+* Receptionist workflow
+* Owner dashboard
+* Protected routes
+* Responsive dashboard UI
+* Dark / light theme
+* Backend API architecture
+
+**Frontend:** `Next.js` `React` `JavaScript` `Tailwind CSS`
+
+**Backend:** `Node.js` `Express.js` `MongoDB`
+
+---
+
+## 💰 SmartFD — Fixed Deposit & Investment App
+
+**SmartFD** is a React Native application focused on helping users explore fixed-deposit rates and manage investment-related information through a mobile interface.
+
+### Features
+
+* 🏦 Bank FD information
+* 🧮 FD calculator
+* 📊 Investment section
+* 👤 Profile
+* 📱 Mobile-first interface
+* 🎨 Custom theme
+* 🔐 Local data handling
+* ⚡ API-ready architecture
+
+**Tech:** `React Native` `JavaScript` `Redux Toolkit` `Axios` `AsyncStorage` `React Navigation` `NativeWind`
+
+---
+
+# 🧠 What I Can Build
+
+I focus on building complete applications rather than only UI screens.
+
+### Frontend Development
+
+* Modern React applications
+* Next.js applications
+* Responsive dashboards
+* SaaS interfaces
+* Authentication flows
+* Complex forms
+* Search & filtering
+* Data-driven interfaces
+* Dark/light themes
+* Reusable components
+
+### Backend Development
+
+* REST APIs
+* Node.js / Express servers
+* Authentication systems
+* Authorization & role-based access
+* CRUD APIs
+* Database integration
+* API validation
+* Server-side business logic
+
+### Full-Stack Applications
+
+I can connect the complete application flow:
+
+```text
+Frontend
+   ↓
+API
+   ↓
+Backend
+   ↓
+Database
+   ↓
+Authentication
+   ↓
+Deployment
+```
+
+---
+
+# 📚 Currently Learning
+
+I'm continuously improving my fundamentals alongside project development.
+
+### Data Structures & Algorithms
+
+* Arrays
+* Strings
+* Hashing
+* Two Pointers
+* Sliding Window
+* Linked Lists
+* Stacks & Queues
+* Recursion
+* Trees
+* Graphs
+* Sorting
+* Searching
+* Dynamic Programming
+* Problem Solving
+
+### Also Improving
+
+* Backend architecture
+* Database design
+* Authentication & security
+* API architecture
+* System design fundamentals
+* Performance optimization
+* Production-ready application structure
+
+---
+
+# 🎯 My Development Approach
+
+I don't want to just build applications that **work**.
+
+I focus on applications that are:
+
+```text
+Clean
+  ↓
+Reusable
+  ↓
+Responsive
+  ↓
+Secure
+  ↓
+Scalable
+  ↓
+Maintainable
+  ↓
+Production-Oriented
+```
+
+I pay attention to:
+
+* Clean component architecture
+* Reusable code
+* API structure
+* Database design
+* Authentication
+* User experience
+* Performance
+* Responsive design
+* Error handling
+* Deployment
+
+---
+
+# 💼 What I'm Looking For
+
+I'm interested in opportunities where I can work on:
+
+* Full-Stack Web Applications
+* SaaS Products
+* React / Next.js Applications
+* Node.js Backend Systems
+* Developer Tools
+* Dashboards
+* REST APIs
+* Database-driven Applications
+* Freelance Projects
+* Internships
+* Software Engineering Opportunities
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=raunak-collab&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raunak-collab&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raunak-collab&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 🔥 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=raunak-collab&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+# 🤝 Let's Connect
+
+I'm always interested in connecting with developers, founders, recruiters, and people building interesting products.
+
+<p align="left">
+  <a href="https://github.com/raunak-collab">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 💡 "Build. Learn. Improve. Repeat."
+
+Thanks for visiting my profile! ⭐
+
+If you find something interesting in my repositories, feel free to explore, star, or connect with me.
