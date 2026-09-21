@@ -1,241 +1,289 @@
-# Hey, I'm Raunak 👋
+<!-- ===================== HEADER ===================== -->
+
+<div align="center">
+
+# 👋 Hey, I'm Raunak
 
 ### Full-Stack Developer • Software Engineer • Problem Solver
 
-I’m a **Full-Stack Developer** focused on building modern, scalable, and user-friendly web applications.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=7C5CFF&center=true&vCenter=true&width=650&lines=Building+Modern+Web+Applications;React+%7C+Next.js+%7C+Node.js;Creating+Production-Oriented+SaaS+Products;Learning+DSA+%26+System+Design;Turning+Ideas+Into+Real+Products" />
 
-I enjoy turning ideas into real products — from polished frontend interfaces and dashboards to REST APIs, authentication systems, databases, and complete SaaS applications.
+<br/>
 
-Currently, I’m strengthening my **Data Structures & Algorithms, backend development, system design fundamentals, and full-stack engineering skills** while building production-oriented projects.
+<a href="https://github.com/raunak-collab">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
----
-
-## 🚀 About Me
-
-* 💻 Full-Stack Developer focused on **JavaScript / React / Next.js**
-* ⚡ Strongest area: **Frontend & modern web application development**
-* 🔧 Building experience in **backend architecture, APIs, databases and authentication**
-* 🧠 Currently improving **DSA & problem-solving**
-* 🏗️ Interested in building **real-world SaaS products and scalable applications**
-* 📱 Exploring **React Native** for cross-platform mobile development
-* 🤖 Exploring practical use of **AI APIs in applications**
-* 🌱 Currently learning and improving every day
-* 🎓 BCA student
-* 🤝 Open to **freelance projects, collaborations, internships and developer opportunities**
+</div>
 
 ---
 
-# 🛠️ Tech Stack
+## 🧑‍💻 About Me
+
+I'm a **Full-Stack Developer** passionate about building modern, scalable and user-focused applications.
+
+My strongest area is **frontend development with React and Next.js**, while I'm continuously expanding my backend and software engineering skills.
+
+I enjoy taking an idea from:
+
+**Concept → UI → API → Database → Authentication → Deployment**
+
+and turning it into a working product.
+
+```js
+const developer = {
+  name: "Raunak",
+  role: "Full-Stack Developer",
+  strongest: ["React", "Next.js", "JavaScript"],
+  backend: ["Node.js", "Express.js"],
+  databases: ["MongoDB", "PostgreSQL"],
+  currentlyLearning: [
+    "Data Structures & Algorithms",
+    "Backend Architecture",
+    "System Design"
+  ],
+  interests: [
+    "SaaS",
+    "Developer Tools",
+    "Web Applications",
+    "Mobile Applications"
+  ]
+};
+```
+
+---
+
+# ⚡ Tech Stack
 
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
 </p>
 
-* HTML5
-* CSS3
-* JavaScript
-* React.js
-* Next.js
-* Tailwind CSS
-* Responsive UI
-* React Hooks
-* Context API
-* Redux Toolkit
-* RTK Query
+**HTML5 · CSS3 · JavaScript · React · Next.js · Tailwind CSS**
 
-### Backend
+---
+
+### Backend & Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql" />
 </p>
 
-* Node.js
-* Express.js
-* REST APIs
-* API architecture
-* Authentication & authorization
-* Cookies & sessions
-* Protected routes
-* Server-side logic
+**Node.js · Express.js · MongoDB · Mongoose · PostgreSQL · REST APIs**
 
-### Databases
+---
+
+### State & Data
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql" />
+<img src="https://skillicons.dev/icons?i=redux" />
 </p>
 
-* MongoDB
-* MongoDB Atlas
-* Mongoose
-* PostgreSQL
-* Database schema design
-* CRUD operations
-* Data modeling
+**Redux Toolkit · RTK Query · Context API · AsyncStorage**
 
-### Tools & Platforms
+---
+
+### Tools & Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel,netlify" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel,netlify" />
 </p>
 
-* Git & GitHub
-* VS Code
-* Postman
-* Figma
-* Vercel
-* Netlify
-* REST API testing
-* Environment variables
-* Deployment & debugging
+**Git · GitHub · VS Code · Postman · Figma · Vercel · Netlify**
 
-### Mobile
+---
+
+### Mobile & AI
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react" />
+<img src="https://skillicons.dev/icons?i=react" />
 </p>
 
-* React Native
-* React Navigation
-* Redux Toolkit
-* AsyncStorage
-* Axios
-
-### AI & APIs
-
-* OpenAI API
-* AI-powered application features
-* API integration
-* Prompt-based application workflows
+**React Native · React Navigation · Axios · OpenAI API**
 
 ---
 
 # 🚀 Featured Projects
 
-## 🧰 DevHub — Developer Tools Platform
+## 🧰 DevHub
 
-**DevHub** is an all-in-one developer toolkit designed to bring useful development utilities together in one place.
+### All Developer Tools in One Place
 
-### Features
+DevHub is a developer-focused platform that brings commonly used development utilities into a single modern workspace.
+
+### ✨ Highlights
 
 * 🔐 Authentication & protected routes
-* 🛠️ Developer tools
+* 🛠️ Developer utilities
 * 🔎 Search & category filtering
 * 📌 Saved tools
 * ❤️ Favourites
 * 🕒 Tool history
 * 📁 Collections
 * 📊 Developer dashboard
-* 🌙 Modern dark developer-focused UI
-* 📱 Responsive interface
-* ⚡ Fast Next.js application
-* 🗄️ MongoDB-backed data
+* 🌙 Dark developer-focused interface
+* ⚡ Next.js application
+* 🗄️ MongoDB integration
 * 🚀 Vercel deployment
 
-### Tools include
+### 🧩 Tools
 
-* JSON Formatter
-* JWT Decoder
-* Password Generator
-* Regex Tester
-* UUID Generator
-* XML tools
-* REST API testing
-* QR utilities
-* YAML tools
-* And more
+`JSON Formatter` · `JWT Decoder` · `Password Generator` · `Regex Tester` · `UUID Generator` · `XML Tools` · `REST API Tester` · `QR Generator` · `YAML Tools`
 
-**Tech:** `Next.js` `React` `JavaScript` `Tailwind CSS` `MongoDB` `Mongoose` `Authentication` `REST APIs`
+**Stack**
+
+`Next.js` `React` `JavaScript` `Tailwind CSS` `MongoDB` `Mongoose`
+
+<br/>
 
 ---
 
-## 🏥 QueueLess — Healthcare Queue Management SaaS
+## 🏥 QueueLess
 
-**QueueLess** is a healthcare-focused SaaS application designed to help clinics and healthcare centers manage appointments, queues, tokens and different user roles.
+### Smarter Queues. Happier Patients.
 
-### Core Concept
+QueueLess is a healthcare queue-management SaaS concept designed for clinics and healthcare centers.
 
-Instead of patients waiting without visibility, QueueLess provides a structured digital queue system for:
+It connects **clinic owners, receptionists, doctors and patients** through a structured digital workflow.
 
-* 👨‍⚕️ Doctors
-* 🧑‍💼 Receptionists
-* 🏥 Clinic Owners
-* 👤 Patients
+### ✨ Core Features
 
-### Planned / Implemented Capabilities
+* 🏥 Clinic management
+* 👨‍⚕️ Doctor workflow
+* 🧑‍💼 Receptionist workflow
+* 👤 Patient workflow
+* 🎫 Queue & token management
+* 📅 Appointment management
+* 🔐 Authentication
+* 🛡️ Role-based access
+* 📊 Dashboard architecture
+* 🌗 Dark / light theme
+* 🔌 REST API architecture
 
-* Authentication
-* Role-based access
-* Clinic management
-* Appointment management
-* Queue & token management
-* Patient flows
-* Doctor dashboard
-* Receptionist workflow
-* Owner dashboard
-* Protected routes
-* Responsive dashboard UI
-* Dark / light theme
-* Backend API architecture
+**Frontend**
 
-**Frontend:** `Next.js` `React` `JavaScript` `Tailwind CSS`
+`Next.js` `React` `JavaScript` `Tailwind CSS`
 
-**Backend:** `Node.js` `Express.js` `MongoDB`
+**Backend**
 
-# 🧠 What I Can Build
+`Node.js` `Express.js` `MongoDB`
 
-I focus on building complete applications rather than only UI screens.
+<br/>
 
-### Frontend Development
+---
 
-* Modern React applications
-* Next.js applications
-* Responsive dashboards
-* SaaS interfaces
-* Authentication flows
-* Complex forms
-* Search & filtering
-* Data-driven interfaces
-* Dark/light themes
-* Reusable components
+## 💰 SmartFD
 
-### Backend Development
+### Fixed Deposit & Investment Application
 
-* REST APIs
-* Node.js / Express servers
-* Authentication systems
-* Authorization & role-based access
-* CRUD APIs
-* Database integration
-* API validation
-* Server-side business logic
+SmartFD is a React Native application focused on fixed-deposit information, calculations and investment-related workflows.
 
-### Full-Stack Applications
+### ✨ Features
 
-I can connect the complete application flow:
+* 🏦 Bank information
+* 🧮 FD calculator
+* 📊 Investment section
+* 👤 Profile
+* 📱 Mobile-first UI
+* 🔄 API integration
+* 🗃️ Local storage
+* 🎨 Custom theme
+
+**Stack**
+
+`React Native` `JavaScript` `Redux Toolkit` `Axios` `AsyncStorage` `NativeWind`
+
+---
+
+# 🧠 What I Build
+
+I work across the complete application lifecycle.
+
+### 🎨 Frontend
 
 ```text
-Frontend
-   ↓
-API
-   ↓
-Backend
-   ↓
-Database
-   ↓
+React Applications
+Next.js Applications
+Responsive Interfaces
+SaaS Dashboards
+Authentication UI
+Complex Forms
+Search & Filtering
+Reusable Components
+Dark / Light Themes
+```
+
+### ⚙️ Backend
+
+```text
+REST APIs
+Node.js Servers
+Express.js Applications
 Authentication
-   ↓
-Deployment
+Authorization
+Role-Based Access
+CRUD APIs
+Database Integration
+Business Logic
+API Testing
+```
+
+### 🗄️ Data
+
+```text
+MongoDB
+MongoDB Atlas
+Mongoose
+PostgreSQL
+Data Modeling
+Schema Design
+CRUD Operations
+API Data Management
+```
+
+---
+
+# 🔐 Full-Stack Architecture
+
+I enjoy understanding how the complete application works instead of treating frontend and backend as separate worlds.
+
+```text
+                 USER
+                   │
+                   ▼
+          ┌─────────────────┐
+          │   Next.js / UI  │
+          └────────┬────────┘
+                   │
+                   ▼
+          ┌─────────────────┐
+          │    REST API     │
+          └────────┬────────┘
+                   │
+                   ▼
+          ┌─────────────────┐
+          │ Node / Express  │
+          └────────┬────────┘
+                   │
+                   ▼
+          ┌─────────────────┐
+          │    Database     │
+          │ MongoDB / SQL   │
+          └─────────────────┘
 ```
 
 ---
 
 # 📚 Currently Learning
 
-I'm continuously improving my fundamentals alongside project development.
+I'm currently putting strong focus on **computer science fundamentals and engineering depth**.
 
-### Data Structures & Algorithms
+### 🧠 Data Structures & Algorithms
 
 * Arrays
 * Strings
@@ -243,123 +291,121 @@ I'm continuously improving my fundamentals alongside project development.
 * Two Pointers
 * Sliding Window
 * Linked Lists
-* Stacks & Queues
+* Stack & Queue
 * Recursion
+* Binary Search
+* Sorting
 * Trees
 * Graphs
-* Sorting
-* Searching
 * Dynamic Programming
-* Problem Solving
 
-### Also Improving
+### ⚙️ Software Engineering
 
 * Backend architecture
+* API design
 * Database design
 * Authentication & security
-* API architecture
-* System design fundamentals
 * Performance optimization
-* Production-ready application structure
+* System design fundamentals
+* Scalable application architecture
+* Production deployment
 
 ---
 
-# 🎯 My Development Approach
+# 🎯 My Development Philosophy
 
-I don't want to just build applications that **work**.
+I believe good software isn't just about making something work.
 
-I focus on applications that are:
+It should be:
 
 ```text
-Clean
-  ↓
-Reusable
-  ↓
-Responsive
-  ↓
-Secure
-  ↓
-Scalable
-  ↓
-Maintainable
-  ↓
-Production-Oriented
+        CLEAN
+          ↓
+       REUSABLE
+          ↓
+      MAINTAINABLE
+          ↓
+       SECURE
+          ↓
+       SCALABLE
+          ↓
+      PRODUCTION
+       READY
 ```
 
-I pay attention to:
+I care about:
 
-* Clean component architecture
-* Reusable code
+* Clean architecture
+* Reusable components
+* Meaningful naming
 * API structure
 * Database design
 * Authentication
-* User experience
-* Performance
-* Responsive design
 * Error handling
-* Deployment
+* Performance
+* User experience
+* Maintainability
 
 ---
 
-# 💼 What I'm Looking For
+# 📈 GitHub Stats
 
-I'm interested in opportunities where I can work on:
+<div align="center">
 
-* Full-Stack Web Applications
-* SaaS Products
-* React / Next.js Applications
-* Node.js Backend Systems
-* Developer Tools
-* Dashboards
-* REST APIs
-* Database-driven Applications
-* Freelance Projects
-* Internships
-* Software Engineering Opportunities
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=raunak-collab&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raunak-collab&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
-# 📊 GitHub Stats
+# 🔥 Contribution Streak
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raunak-collab&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raunak-collab&theme=tokyonight&hide_border=true" />
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=raunak-collab&theme=tokyonight&hide_border=true"/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raunak-collab&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+</div>
 
 ---
 
-# 🔥 Contribution Graph
+# 📊 Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=raunak-collab&theme=tokyo-night&hide_border=true" />
-</p>
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=raunak-collab&theme=tokyo-night&hide_border=true&area=true"/>
+
+</div>
 
 ---
 
 # 🤝 Let's Connect
 
-I'm always interested in connecting with developers, founders, recruiters, and people building interesting products.
+I'm interested in connecting with:
 
-<p align="left">
-  <a href="https://github.com/raunak-collab">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/raunak-raza-7172a1315/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+**Developers · Recruiters · Founders · Freelancers · Product Builders**
+
+Whether it's a software project, collaboration, internship, freelance opportunity, or simply sharing ideas — feel free to connect.
+
+<div align="center">
+
+<a href="https://github.com/raunak-collab">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
-### 💡 "Build. Learn. Improve. Repeat."
+<div align="center">
 
-Thanks for visiting my profile! ⭐
+### 🚀 Build. Learn. Improve. Repeat.
 
-If you find something interesting in my repositories, feel free to explore, star, or connect with me.
+**Thanks for visiting my profile! ⭐**
+
+</div>
