@@ -20,7 +20,7 @@ Currently, I’m strengthening my **Data Structures & Algorithms, backend develo
 * 📱 Exploring **React Native** for cross-platform mobile development
 * 🤖 Exploring practical use of **AI APIs in applications**
 * 🌱 Currently learning and improving every day
-* 🎓 BSc Mathematics student
+* 🎓 BCA student
 * 🤝 Open to **freelance projects, collaborations, internships and developer opportunities**
 
 ---
@@ -182,27 +182,6 @@ Instead of patients waiting without visibility, QueueLess provides a structured 
 **Frontend:** `Next.js` `React` `JavaScript` `Tailwind CSS`
 
 **Backend:** `Node.js` `Express.js` `MongoDB`
-
----
-
-## 💰 SmartFD — Fixed Deposit & Investment App
-
-**SmartFD** is a React Native application focused on helping users explore fixed-deposit rates and manage investment-related information through a mobile interface.
-
-### Features
-
-* 🏦 Bank FD information
-* 🧮 FD calculator
-* 📊 Investment section
-* 👤 Profile
-* 📱 Mobile-first interface
-* 🎨 Custom theme
-* 🔐 Local data handling
-* ⚡ API-ready architecture
-
-**Tech:** `React Native` `JavaScript` `Redux Toolkit` `Axios` `AsyncStorage` `React Navigation` `NativeWind`
-
----
 
 # 🧠 What I Can Build
 
