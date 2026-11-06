@@ -92,10 +92,11 @@ const developer = {
 ### Tools & Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,jupyter](https://skillicons.dev/icons?i=git,github,vscode,postman,figma,jupyter,docker,linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,docker,linux" />
+  <img src="https://cdn.simpleicons.org/jupyter/F37626" height="48" alt="Jupyter Notebook" />
 </p>
 
-**Git · GitHub · VS Code · Postman · Figma · Jupyter Notebook**
+**Git · GitHub · VS Code · Postman · Figma · Jupyter Notebook · Docker · Linux fundamentals**
 
 ---
 
